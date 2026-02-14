@@ -1,11 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Anmol%20Rai&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Kubernetes%20Specialist%20%7C%20DevSecOps&descAlignY=60&descSize=18" />
-</p>
+<h1 align="center">Senior DevOps Engineer 🚀</h1>
 
-<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=Hi+There!+👋+I'm+Anmol+Rai;Senior+DevOps+Engineer+🚀;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Helm;CI%2FCD+Automation+%7C+Observability+%7C+DevSecOps;Always+Learning+%26+Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=Hi+There!+👋+I'm+Anmol+Rai;Senior+DevOps+Engineer+🚀;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Helm;CI%2FCD+Automation+%7C+Observability+%7C+DevSecOps" />
 </p>
 
 ---
@@ -18,7 +14,7 @@
   <img src="https://img.shields.io/badge/Kubernetes%20Specialist-1E3A8A?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-🚀 I’m **Anmol Rai**, a **Senior DevOps Engineer** with **4+ years of experience** in building and automating cloud infrastructure, CI/CD pipelines, Kubernetes deployments, and production-grade observability systems.
+🚀 I'm **Anmol Rai**, a **Senior DevOps Engineer** with **4+ years of experience** in building and automating cloud infrastructure, CI/CD pipelines, Kubernetes deployments, and production-grade observability systems.
 
 I specialize in **AWS + Kubernetes + Terraform + Helm**, and I love working on scalable, secure and automated DevOps solutions.
 
@@ -120,31 +116,18 @@ I specialize in **AWS + Kubernetes + Terraform + Helm**, and I love working on s
 
 ---
 
-## 📌 Featured Projects
-
-### 🚀 Cassandra Cluster Upgrade & Deployment
-- Deployed multi-node Cassandra clusters (**10+ nodes**)  
-- Upgraded Cassandra **v3.11 → v4.1.9** with **zero downtime**
-- Ensured **fault tolerance, high availability, and data consistency**
-
-### ⚙️ Infrastructure Automation Pipeline
-- Built automation using **Terraform + Bash + Ansible + Helm**
-- Reduced provisioning time by **60%**
-- Created reusable Terraform modules to speed up deployments
-
-### 📊 Observability Stack Automation
-- Deployed **kube-prometheus-stack** using Helm
-- Built custom Grafana images with dashboards, plugins & data sources
-- Reduced monitoring setup time by **70%**
-
 ---
 
 ## 🏆 Certifications & Achievements
 
-🏅 **Prometheus Certified Associate**  
-⭐ **Star Performance Award** for infrastructure automation and optimization  
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus%20Certified%20Associate-000000?style=for-the-badge&logo=prometheus&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Star%20Performance%20Award-1F2937?style=for-the-badge&logo=starship&logoColor=gold"/>
+</p>
 
----
+- 🏅 **Prometheus Certified Associate** – Skilled in deploying and managing production monitoring systems  
+- ⭐ **Star Performance Award** – Recognized for infrastructure automation and cloud optimization  
+
 
 ## 📈 GitHub Stats
 
@@ -155,14 +138,6 @@ I specialize in **AWS + Kubernetes + Terraform + Helm**, and I love working on s
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anmolrai16&theme=tokyonight&hide_border=true" height="190"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/anmolrai16/anmolrai16/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
