@@ -1,18 +1,16 @@
-<h1 align="center">Senior DevOps Engineer 🚀</h1>
+<h1 align="center">Hey Everyone 👋, I'm Anmol Rai</h1>
+
+<h3 align="center">Senior DevOps Engineer 🚀 | AWS | Kubernetes | Terraform | CI/CD | DevSecOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=Hi+There!+👋+I'm+Anmol+Rai;Senior+DevOps+Engineer+🚀;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Helm;CI%2FCD+Automation+%7C+Observability+%7C+DevSecOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=Senior+DevOps+Engineer;Cloud+Infrastructure+Specialist;CI%2FCD+Automation+Expert;Observability+%7C+DevSecOps+%7C+SRE" />
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
 
 ## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps%20Engineer-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Engineer-111827?style=for-the-badge&logo=icloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes%20Specialist-1E3A8A?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
 
 🚀 I'm **Anmol Rai**, a **Senior DevOps Engineer** with **4+ years of experience** in building and automating cloud infrastructure, CI/CD pipelines, Kubernetes deployments, and production-grade observability systems.
 
@@ -116,8 +114,6 @@ I specialize in **AWS + Kubernetes + Terraform + Helm**, and I love working on s
 
 ---
 
----
-
 ## 🏆 Certifications & Achievements
 
 <p align="center">
@@ -125,9 +121,10 @@ I specialize in **AWS + Kubernetes + Terraform + Helm**, and I love working on s
   <img src="https://img.shields.io/badge/Star%20Performance%20Award-1F2937?style=for-the-badge&logo=starship&logoColor=gold"/>
 </p>
 
-- 🏅 **Prometheus Certified Associate** – Skilled in deploying and managing production monitoring systems  
-- ⭐ **Star Performance Award** – Recognized for infrastructure automation and cloud optimization  
+- 🏅 **Prometheus Certified Associate**
+- ⭐ **Star Performance Award**
 
+---
 
 ## 📈 GitHub Stats
 
@@ -142,4 +139,4 @@ I specialize in **AWS + Kubernetes + Terraform + Helm**, and I love working on s
 
 ---
 
-<h3 align="center">🔥 "Automate Everything | Secure Everything | Monitor Everything" 🔥</h3>
+<h3 align="center">🔥 Automate Everything | Secure Everything | Monitor Everything 🔥</h3>
